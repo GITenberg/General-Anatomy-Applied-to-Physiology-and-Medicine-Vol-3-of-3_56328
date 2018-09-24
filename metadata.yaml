@@ -1,10 +1,13 @@
 _repo: General-Anatomy-Applied-to-Physiology-and-Medicine-Vol-3-of-3_56328
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hayward, George
     gutenberg_agent_id: '48680'
     url: http://www.gutenberg.org/2009/agents/48680
+covers:
+- cover_type: archival
+  image_path: 56328-h/images/cover.jpg
 creator:
   author:
     agent_name: Bichat, Xavier
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '47149'
     url: http://www.gutenberg.org/2009/agents/47149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56328#General-Anatomy-Applied-to-Physiology-and-Medicine-Vol-3-of-3
 gutenberg_issued: '2018-01-07'
 gutenberg_type: Text
 identifiers:
